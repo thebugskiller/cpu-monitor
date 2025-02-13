@@ -11,6 +11,7 @@ venv/
 .idea/
 .idea/
 *.swp
+.DS_Store
 
 # Logs and databases
 *.log
