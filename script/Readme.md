@@ -142,3 +142,8 @@ pip uninstall cpu-monitor
 - **Historical Reports:** Save test run reports to a local file (CSV/JSON) for future reference.
 - **Email/Slack Alerts:** Send notifications when CPU usage exceeds the threshold.
 - **Resource Monitoring:** Multi-Core Monitoring: Display per-core CPU usage alongside overall usage. Extend monitoring to include memory, disk, and network usage.
+
+
+ 
+ 
+ 

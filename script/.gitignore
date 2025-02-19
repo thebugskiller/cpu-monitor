@@ -1,0 +1,23 @@
+# Python-related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+build/
+cpu_monitor.egg-info/
+dist/
+venv/
+.env
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Docker files
+docker-compose.override.yml
